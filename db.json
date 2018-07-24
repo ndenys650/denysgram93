@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "username": "socleansofreshh",
+      "userImage": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me_3.jpg",
+      "postImage":
+        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
+      "likes": 36,
+      "caption": "When youre ready for summer 2018 ☀️",
+      "filter": "perpetua"
+    }
+  ]
+}
